@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+div{
+    border: 4px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#hobby{
+    background-color: white;
+    color: black;
+}
+
+#hobby img{
+    width: 250px;
+    height: 150px;
+}
+
+#work{
+    color: black;
+    background-color: gray;
+}
+
+#work img{
+    width: 250px;
+    height: 150px;
+}
+
+#car{
+    background-color: black;
+    color: white;
+}
+
+#car img{
+    width: 250px;
+    height: 150px;
+}
+
+#socmedia{
+    text-align: center;
+}
+#socmedia img{
+    width: 20px;
+    height: 20px;
+}

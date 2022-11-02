@@ -1,0 +1,24 @@
+/* div p{
+    color: brown;
+} */
+
+.block1 p{
+    color: red;
+}
+
+.block1 .p1{
+    color: green;
+}
+
+.block2{
+    /* background-color: lightblue; */
+    background-image: url('https://previews.123rf.com/images/paladin12/paladin122004/paladin12200400013/144510502-crumpled-brown-background-paper-texture.jpg');
+}
+
+body{
+    background-image: url('https://images.pexels.com/photos/1587442/pexels-photo-1587442.jpeg?cs=srgb&dl=pexels-colys-hat-1587442.jpg&fm=jpg');
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* background-position: top right left bottom; */
+
+}
