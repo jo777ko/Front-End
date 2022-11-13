@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+ol{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+
+h2{
+    color: green;
+}
+span{
+    color: red;
+}
+p{
+
+    margin-right: 60%;
+    line-height: 30px;
+}
+
+ul{
+    margin-right: 60%;
+    color: palevioletred
+}
+
