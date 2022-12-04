@@ -1,0 +1,32 @@
+div{
+    padding: 10px;
+}
+
+
+
+.img_home{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    object-fit: contain;
+    background-color: black;
+    margin: 20px;
+}
+
+.img_about{
+    width: 500px;
+    height: 400px;
+}
+
+p{
+    font-size: 14px;
+    line-height: 18px;
+}
+h1{
+    color: red;
+}
+
+.h1_about{
+    letter-spacing: 10px;
+    border-bottom: 3px solid black;
+}
